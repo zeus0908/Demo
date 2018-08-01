@@ -1,0 +1,227 @@
+[
+    [
+        "C:\\Users\\User\\Demo\\force-app",
+        {
+            "state": "n",
+            "sourcePath": "C:\\Users\\User\\Demo\\force-app",
+            "isDirectory": true,
+            "isMetadataFile": false,
+            "size": 0,
+            "modifiedTime": 1533106254241,
+            "changeTime": 1533106254241,
+            "contentHash": "b28b7af69320201d1cf206ebf28373980add1451",
+            "isWorkspace": false,
+            "isArtifactRoot": true
+        }
+    ],
+    [
+        "C:\\Users\\User\\Demo\\force-app\\main",
+        {
+            "state": "n",
+            "sourcePath": "C:\\Users\\User\\Demo\\force-app\\main",
+            "isDirectory": true,
+            "isMetadataFile": false,
+            "size": 0,
+            "modifiedTime": 1533106254241,
+            "changeTime": 1533106254241,
+            "contentHash": "7505d64a54e061b7acd54ccd58b49dc43500b635",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "C:\\Users\\User\\Demo\\force-app\\main\\default",
+        {
+            "state": "n",
+            "sourcePath": "C:\\Users\\User\\Demo\\force-app\\main\\default",
+            "isDirectory": true,
+            "isMetadataFile": false,
+            "size": 0,
+            "modifiedTime": 1533106254241,
+            "changeTime": 1533106254241,
+            "contentHash": "2c2a89c1c45d2977cfce538e475902f5520f4382",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "C:\\Users\\User\\Demo\\force-app\\main\\default\\aura",
+        {
+            "state": "n",
+            "sourcePath": "C:\\Users\\User\\Demo\\force-app\\main\\default\\aura",
+            "isDirectory": true,
+            "isMetadataFile": false,
+            "size": 0,
+            "modifiedTime": 1533106456309,
+            "changeTime": 1533106456309,
+            "contentHash": "e52c854d5631eec7468ba4727b4c77eb745f2965",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "C:\\Users\\User\\Demo\\force-app\\main\\default\\aura\\Demo",
+        {
+            "state": "n",
+            "sourcePath": "C:\\Users\\User\\Demo\\force-app\\main\\default\\aura\\Demo",
+            "isDirectory": true,
+            "isMetadataFile": false,
+            "size": 0,
+            "modifiedTime": 1533106456411,
+            "changeTime": 1533106456411,
+            "contentHash": "43ddf5730caa5f429a02f9794295fa86dc177f7a",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "C:\\Users\\User\\Demo\\force-app\\main\\default\\aura\\Demo\\Demo.auradoc",
+        {
+            "state": "n",
+            "sourcePath": "C:\\Users\\User\\Demo\\force-app\\main\\default\\aura\\Demo\\Demo.auradoc",
+            "isDirectory": false,
+            "isMetadataFile": false,
+            "size": 209,
+            "modifiedTime": 1533106456411,
+            "changeTime": 1533106456411,
+            "contentHash": "fd7f560d82324d6a8255c8c6ebf60698f5f93f1e",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "C:\\Users\\User\\Demo\\force-app\\main\\default\\aura\\Demo\\Demo.cmp",
+        {
+            "state": "n",
+            "sourcePath": "C:\\Users\\User\\Demo\\force-app\\main\\default\\aura\\Demo\\Demo.cmp",
+            "isDirectory": false,
+            "isMetadataFile": false,
+            "size": 211,
+            "modifiedTime": 1533106506505,
+            "changeTime": 1533106506505,
+            "contentHash": "abe3a48783937adece3849b3b81f37280f1f6de9",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "C:\\Users\\User\\Demo\\force-app\\main\\default\\aura\\Demo\\Demo.cmp-meta.xml",
+        {
+            "state": "n",
+            "sourcePath": "C:\\Users\\User\\Demo\\force-app\\main\\default\\aura\\Demo\\Demo.cmp-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 236,
+            "modifiedTime": 1533106456309,
+            "changeTime": 1533106456309,
+            "contentHash": "e5e7db39d75083e3ba59f046262b4d8fda21dfe5",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "C:\\Users\\User\\Demo\\force-app\\main\\default\\aura\\Demo\\Demo.css",
+        {
+            "state": "n",
+            "sourcePath": "C:\\Users\\User\\Demo\\force-app\\main\\default\\aura\\Demo\\Demo.css",
+            "isDirectory": false,
+            "isMetadataFile": false,
+            "size": 10,
+            "modifiedTime": 1533106456361,
+            "changeTime": 1533106456361,
+            "contentHash": "44063bf628f237edaa1f3f358714dd40ac321703",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "C:\\Users\\User\\Demo\\force-app\\main\\default\\aura\\Demo\\Demo.design",
+        {
+            "state": "n",
+            "sourcePath": "C:\\Users\\User\\Demo\\force-app\\main\\default\\aura\\Demo\\Demo.design",
+            "isDirectory": false,
+            "isMetadataFile": false,
+            "size": 40,
+            "modifiedTime": 1533106456411,
+            "changeTime": 1533106456411,
+            "contentHash": "c5618bc7228e29c74b07b78fd040e05ae8a541ec",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "C:\\Users\\User\\Demo\\force-app\\main\\default\\aura\\Demo\\Demo.svg",
+        {
+            "state": "n",
+            "sourcePath": "C:\\Users\\User\\Demo\\force-app\\main\\default\\aura\\Demo\\Demo.svg",
+            "isDirectory": false,
+            "isMetadataFile": false,
+            "size": 661,
+            "modifiedTime": 1533106456361,
+            "changeTime": 1533106456361,
+            "contentHash": "721eeffe17135535c3834b77f1e1968fe6360ed4",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "C:\\Users\\User\\Demo\\force-app\\main\\default\\aura\\Demo\\DemoController.js",
+        {
+            "state": "n",
+            "sourcePath": "C:\\Users\\User\\Demo\\force-app\\main\\default\\aura\\Demo\\DemoController.js",
+            "isDirectory": false,
+            "isMetadataFile": false,
+            "size": 65,
+            "modifiedTime": 1533106456309,
+            "changeTime": 1533106456309,
+            "contentHash": "194250e0c86b1981f8d4e7246be6b32954c6deaf",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "C:\\Users\\User\\Demo\\force-app\\main\\default\\aura\\Demo\\DemoHelper.js",
+        {
+            "state": "n",
+            "sourcePath": "C:\\Users\\User\\Demo\\force-app\\main\\default\\aura\\Demo\\DemoHelper.js",
+            "isDirectory": false,
+            "isMetadataFile": false,
+            "size": 45,
+            "modifiedTime": 1533106456361,
+            "changeTime": 1533106456361,
+            "contentHash": "fa35ebecd73c127729bf311a95b613f711a6f10b",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "C:\\Users\\User\\Demo\\force-app\\main\\default\\aura\\Demo\\DemoRenderer.js",
+        {
+            "state": "n",
+            "sourcePath": "C:\\Users\\User\\Demo\\force-app\\main\\default\\aura\\Demo\\DemoRenderer.js",
+            "isDirectory": false,
+            "isMetadataFile": false,
+            "size": 50,
+            "modifiedTime": 1533106456361,
+            "changeTime": 1533106456361,
+            "contentHash": "8b79b016f08440c9b2f7d706a6d21229c854540b",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "C:\\Users\\User\\Demo",
+        {
+            "state": "n",
+            "sourcePath": "C:\\Users\\User\\Demo",
+            "isDirectory": true,
+            "isMetadataFile": false,
+            "size": 0,
+            "modifiedTime": 1533106752586,
+            "changeTime": 1533106752586,
+            "contentHash": "3d48858a737ab8c39315eaf1c5149980d1a9cdae",
+            "isWorkspace": true,
+            "isArtifactRoot": false
+        }
+    ]
+]
